@@ -1,0 +1,8 @@
+.card-cont{
+    position: relative;
+    background: #1a2a4d;
+    width: 60%;
+    height: 85vh;
+    left: 10%;
+    color: white;
+}

@@ -1,0 +1,13 @@
+.side-wrap{
+    position: relative;
+    width: 15%;
+    height: 100vh;
+    background: #171C28;
+    left:2%;
+    top:3%;
+    color: white;
+    
+}
+.f-wrap{
+    padding-left: 1px;
+}
